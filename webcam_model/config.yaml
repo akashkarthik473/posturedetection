@@ -1,0 +1,7 @@
+path: C:\Users\myste\Documents\projects\posturedetection\dataset
+train: images/train
+val: images/val
+
+names:
+  0: Good
+  1: Bad
